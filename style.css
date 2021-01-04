@@ -16,7 +16,8 @@ body {
   cursor: pointer;
   color: #c9c9c9c;
   left: 40px;
- 
+}
+
 .b2 {
   border: none;
   position: absolute;
@@ -31,6 +32,7 @@ body {
   cursor: pointer;
   color: #c9c9c9c;
   left: 140px;
+}
     
     
 .b3 {
@@ -47,8 +49,6 @@ body {
   cursor: pointer;
   color: #c9c9c9c;
   left: 240px;
-    
-
 }
 
 bar {
