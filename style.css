@@ -2,6 +2,11 @@ body {
     margin: 0;
 }
  
+b1 {
+    border: 0;
+    
+}
+
 bar {
     position: absolute;
     left: 225px;
